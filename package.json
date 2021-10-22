@@ -1,0 +1,10 @@
+{
+  "name": "bitstore-token",
+  "version": "1.0.0",
+  "description": "ERC20 contract of Bit Store Token",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2"
+  },
+  "devDependencies": {},
+  "type": "module"
+}
